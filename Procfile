@@ -1,1 +1,1 @@
-web: python test_echo.py
+bot: python3 test_echo.py
